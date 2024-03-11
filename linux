@@ -3,3 +3,6 @@ touch
 cd
 mv
 vi
+top
+head
+tail
